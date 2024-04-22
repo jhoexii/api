@@ -1,0 +1,1 @@
+<?phpob_start();session_start();include_once('config.php');$db = new db();ob_flush();ob_end_flush();?>

